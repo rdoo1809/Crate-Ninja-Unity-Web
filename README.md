@@ -1,4 +1,4 @@
 Crate Ninja Game built with Unity for the web.
 
 
-https://rdoo1809.github.io/Crate-Ninja-Web/
+https://rdoo1809.github.io/Crate-Ninja-Unity-Web/
